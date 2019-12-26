@@ -1,0 +1,13 @@
+{
+    "my-data":[
+	    {
+	    "is-alive-store":"true",
+	    "ad-priority": "1",
+	     "time-bettwen-in":"25",
+	      "min-show":"0",
+	       "max-show":"5",
+	    "time-start-out":"90000",
+      	 "package-name-replace":"xxx.yyy.zzz.compass"
+        }
+    ]
+}
