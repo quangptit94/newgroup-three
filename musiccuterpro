@@ -2,7 +2,7 @@
     "my-data":[
 	    {
 	    "is-alive-store":"true",
-	    "ad-priority": "2",
+	    "ad-priority": "1",
 	     "time-bettwen-in":"25",
 	      "min-show":"0",
 	       "max-show":"5",
